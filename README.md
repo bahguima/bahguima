@@ -3,7 +3,7 @@
 
 
 
-:woman_technologist: Olá, meu nome é Bárbara, sou desenvolvedora Front-End, moro em Belo Horizonte, sou entusiasta em segurança da informação e apaixonada por UX/UI.
+:woman_technologist: Olá! Meu nome é Bárbara, sou desenvolvedora Front-End, entusiasta em segurança da informação e apaixonada por UX/UI.
 
 - 🚀 Trabalho na **Klickpages**
 - 🛠 Techs: HTML5, CSS3, JS, Bootstrap, Node.js, Sass, MongoDB
