@@ -30,7 +30,7 @@
 
 **Outras Tecnologias**
 
- [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/bahguima/)](https://github.com/bahguima/) [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/bahguima/)](https://github.com/bahguima/) [![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/bahguima/)](https://github.com/bahguima/)
+ [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/bahguima/)](https://github.com/bahguima/) [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/bahguima/)](https://github.com/bahguima/)
 
 **Sistemas Operacionais**
 
