@@ -10,7 +10,4 @@
 
 <br>
 
-[![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma)](https://github.com/bahguima/) [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/bahguima/)](https://github.com/bahguima/) [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/bahguima/) [![Tailwind](https://img.shields.io/badge/-Tailwind-green?style=flat-square&logo=tailwind)](https://github.com/bahguima/) 
-
-
-
+[![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma)](https://github.com/bahguima/) [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/bahguima/)](https://github.com/bahguima/)
